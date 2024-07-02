@@ -12,4 +12,11 @@ cd portfolio-website
 #### Start the server:
 `npm start`
 
-## Here are some screenshots of the project
+## Here are some screenshots of the project:
+![](https://github.com/viper-raghav/Resume-project/blob/main/Screenshot%20(192).png)
+
+![](https://github.com/viper-raghav/Resume-project/blob/main/Screenshot%20(193).png)
+
+![](https://github.com/viper-raghav/Resume-project/blob/main/Screenshot%20(194).png)
+
+![](https://github.com/viper-raghav/Resume-project/blob/main/Screenshot%20(195).png)
