@@ -1,0 +1,20 @@
+.border-end {
+    border-right: 3px solid yellow;
+    /* Yellow border */
+    padding-right: 10px;
+    /* Adjust padding if necessary */
+}
+
+.nav-link {
+    color: white;
+    /* Default text color */
+    transition: color 0.3s, background-color 0.3s;
+    /* Smooth transition for color change */
+}
+
+.nav-link:hover {
+    background-color: yellow;
+    /* Yellow background on hover */
+    color: black;
+    /* Change text color on hover for better visibility */
+}
